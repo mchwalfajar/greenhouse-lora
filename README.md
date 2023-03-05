@@ -5,3 +5,5 @@ This code program ascosiate with env-monitor repository - https://github.com/mch
 https://docs.antares.id/contoh-kode-dan-library/arduino-pro-mini-lora
 
 In this website, you can download the addition library, for example loraid.
+
+Sensor schematic create with draw.io
